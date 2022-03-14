@@ -1,7 +1,7 @@
 {
     "imports": {
       "@mfe/root-config": "https://www.brunofortunato.com.br/projects/mfe-root-config.js",
-      "@mfe/react": "http://localhost:8503/mfe-react.js",
+      "@mfe/vue-login": "https://www.brunofortunato.com.br/projects/js/app.js",
       "@mfe/react-routers": "https://www.brunofortunato.com.br/projects/mfe-react-routers.js",
       "@mfe/react-consig": "https://www.brunofortunato.com.br/projects/mfe-react-consig.js",
       "@mfe/react-imobiliario": "https://www.brunofortunato.com.br/projects/mfe-react-imobiliario.js"
